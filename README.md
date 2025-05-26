@@ -5,11 +5,11 @@
 <h3 align="center">🚀 Senior SDET | 9+ Years in Test Automation | Open-Source Contributor | AI Explorer</h3>
 
 <p align="center">
-  <a href="mailto:sureshayyanna1@gmail.com">📧 Email</a> |
-  <a href="="https://www.linkedin.com/in/sureshayyanna/">💼 LinkedIn</a> |
-  <a href="https://github.com/SureshAyyanna">🐙 GitHub</a> |
+  <a href="mailto:sureshayyanna1@gmail.com">📧 sureshayyanna1@gmail.com</a> |
+  <a href="="https://www.linkedin.com/in/sureshayyanna/">💼 sureshayyanna</a> |
+  <a href="https://github.com/SureshAyyanna">🐙 SureshAryaav</a> |
   <a href="https://dev.to/sureshayyanna">✍️ Blog</a> |
-  <a href="https://api.whatsapp.com/send?phone=916363328968">📱 WhatsApp</a>
+  <a href="https://api.whatsapp.com/send?phone=916363328968">📱+91-6363328968</a>
 </p>
 
 ---
