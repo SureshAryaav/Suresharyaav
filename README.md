@@ -24,20 +24,68 @@
 
 ## 🚀 Tech Stack
 
-- **Languages**: Java, Python  
-- **Frameworks**: Selenium, Cucumber, TestNG  
-- **Tools**: Postman, Jenkins, Git, Docker  
-- **Databases**: MySQL, Oracle  
-- **Others**: Eclipse, VS Code, Agile Scrum  
+### 🧪 Core Testing Skills
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23000000?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-%23000000?style=for-the-badge&logo=selenium&logoColor=white)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-%23326CE5?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-%23326CE5?style=for-the-badge)
+
+---
+
+### 💻 Programming & Scripting
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🧰 Frameworks & Tools
+
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-%23007396?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-%23325C46?style=for-the-badge&logo=cucumber&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🔌 API & Performance Testing
+
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-%2300ADD8?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-%2300C853?style=for-the-badge&logo=swagger&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-%230071C5?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+
+---
+
+### 🗄️ Database & Virtualization
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![vSphere](https://img.shields.io/badge/VMware%20vSphere-%23007CBA?style=for-the-badge)
+
+---
+
+### 📋 Test Management & DevOps
+
+![JIRA](https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%230072C6?style=for-the-badge&logo=confluence&logoColor=white)
+![TFS](https://img.shields.io/badge/Microsoft%20TFS-%23007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VersionOne](https://img.shields.io/badge/VersionOne-%23F56A00?style=for-the-badge)
+![HP ALM](https://img.shields.io/badge/HP%20ALM-%23007396?style=for-the-badge)
+![TestRail](https://img.shields.io/badge/TestRail-%23489FB5?style=for-the-badge)
+
+---
+
+### 🧠 Methodologies & Practices
+
+![Agile](https://img.shields.io/badge/Agile-SAFE--SCRUM-%23FF9900?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-%23000000?style=for-the-badge)
+![STLC](https://img.shields.io/badge/STLC-%23000000?style=for-the-badge)
 
 ---
 
