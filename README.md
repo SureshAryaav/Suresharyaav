@@ -2,9 +2,9 @@
 <h3 align="center">Senior SDET | 9+ Years in Test Automation | Open-Source Contributor</h3>
 
 <p align="center">
-  <a href="mailto:sureshayyanna1@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/sureshayyanna/">💼 LinkedIn</a> |
-  <a href="https://github.com/SureshAyyanna">🐙 GitHub</a> |
+  <a href="mailto:sureshayyanna1@gmail.com">📧 Sureshayyanna1@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/sureshayyanna/">💼 SureshAyyanna</a> |
+  <a href="https://github.com/SureshAyyanna">🐙 SureshAryaav</a> |
   <a href="https://dev.to/sureshayyanna">✍️ Blog</a>
   <a> 📱 +91-6363338968 </a>
 </p>
