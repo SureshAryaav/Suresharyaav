@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suresh Ayyanna</h1>
-<h3 align="center">Senior Test Automation Engineer - SDET</h3>
+<h3 align="center">Senior SDET | 9+ Years in Test Automation | Open-Source Contributor</h3>
 
-- 📧 **Email**: sureshayyanna1@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/sureshayyanna](https://www.linkedin.com/in/sureshayyanna/)  
-- 📄 **Resume**: [View Resume](https://github.com/SureshAyyanna/Resume/blob/master/SureshA_8%2Byears_Senior%20SDET_Resume.pdf)  
-- 📱 **Phone**: +91 6363338968 
-
-[<img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />][website]
-[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][fb]
-[<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
+<p align="center">
+  <a href="mailto:sureshayyanna1@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/sureshayyanna/">💼 LinkedIn</a> |
+  <a href="https://github.com/SureshAyyanna">🐙 GitHub</a> |
+  <a href="https://dev.to/sureshayyanna">✍️ Blog</a>
+  <a> 📱 +91-6363338968 </a>
+</p>
+ 
 ---
 
 ## 🧑‍💻 About Me
@@ -33,6 +29,18 @@
 - **Tools**: Postman, Jenkins, Git, Docker  
 - **Databases**: MySQL, Oracle  
 - **Others**: Eclipse, VS Code, Agile Scrum  
+
+| Technology | Icon |
+|------------|------|
+| **Java**   | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="30" alt="Java" /> |
+| **Jenkins**| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jenkins.svg" width="30" alt="Jenkins" /> |
+| **Git**    | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="30" alt="Git" /> |
+| **Python** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="30" alt="Python" /> |
+| **HTML5**  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="30" alt="HTML5" /> |
+| **CSS3**   | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="30" alt="CSS3" /> |
+| **Eclipse**| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eclipseide.svg" width="30" alt="Eclipse IDE" /> |
+| **MySQL**  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="30" alt="MySQL" /> |
+
 
 ### 🔧 Icons:
 [<img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" />][website]
