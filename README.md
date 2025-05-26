@@ -30,27 +30,14 @@
 - **Databases**: MySQL, Oracle  
 - **Others**: Eclipse, VS Code, Agile Scrum  
 
-| Technology | Icon |
-|------------|------|
-| **Java**   | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="30" alt="Java" /> |
-| **Jenkins**| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jenkins.svg" width="30" alt="Jenkins" /> |
-| **Git**    | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="30" alt="Git" /> |
-| **Python** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="30" alt="Python" /> |
-| **HTML5**  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="30" alt="HTML5" /> |
-| **CSS3**   | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="30" alt="CSS3" /> |
-| **Eclipse**| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eclipseide.svg" width="30" alt="Eclipse IDE" /> |
-| **MySQL**  | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="30" alt="MySQL" /> |
-
-
-### 🔧 Icons:
-[<img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" />][website]
-[<img alt="Jenkins" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jenkins.svg" />][website]
-[<img alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />][website]
-[<img alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />][website]
-[<img alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />][website]
-[<img alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/css3.svg" />][website]
-[<img alt="Eclipse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eclipseide.svg" />][website]
-[<img alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />][website]
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
